@@ -22,17 +22,13 @@ Technologies Used
 
 How to Run
 
-1. Clone the repository:
+1. Navigate to the project folder.
 
-git clone https://github.com/Indhumathi-codes/c-Programs.git
-
-2. Navigate to the project folder.
-
-3. Compile the program:
+2. Compile the program:
 
 g++ Palindrome.cpp -o Palindrome
 
-4. Run the program:
+3. Run the program:
 
 ./Palindrome
 
@@ -54,9 +50,7 @@ Learning Objectives
 
 Author
 
-Indhumathi Ramalingam
-
-GitHub: https://github.com/Indhumathi-codes
+Kaniska
 
 ---
 
